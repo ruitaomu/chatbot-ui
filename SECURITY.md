@@ -23,7 +23,7 @@ If you discover a vulnerability within the code, dependencies, or any other comp
 5. **Do not disclose the vulnerability until the maintainer(s) have addressed it.** Once the issue has been resolved, the maintainer(s) may choose to publicly disclose the vulnerability and credit you for the discovery.
 
 ## Reporting Secrets
-
+ 
 If you discover any secrets, such as API keys or passwords, within the repository, follow these steps:
 
 1. **Do not share the secret or use it for unauthorized purposes.** Misusing a secret could have severe consequences for the project and its users.
